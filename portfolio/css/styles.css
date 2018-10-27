@@ -1,0 +1,21 @@
+body{
+    background-color:burlywood;
+}
+h3{
+    color:blue;
+}
+img{
+    height:100%;
+    width:100%;
+}
+p{
+  font-weight: bolder;
+  font-style:italic;
+  font-size: 150%;
+}
+.hobbies{
+    color:darkgreen;
+}
+#aspiration{
+    color:red;
+}
